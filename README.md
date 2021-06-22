@@ -21,3 +21,12 @@ Esta fase é dividida em duas partes: Treinamento, na qual o pacman irá começa
 ## Resultados
 
 Os resultados se encontram no relatório em anexo.
+
+-------------------------------------------------------------------------------------------------
+#### Autora
+- Professora Lara Popov Zambiasi Bazzi Oberderfer
+- Docente de Informática - Câmpus Chapecó
+- Acadêmica do Doutorado de Automação e Sistemas da UFSC 2021  
+- Instituto Federal de Santa Catarina - Câmpus Chapecó
+- IFSC: http://www.chapeco.ifsc.edu.br
+-------------------------------------------------------------------------------------------------
